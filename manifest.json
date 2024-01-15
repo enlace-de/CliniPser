@@ -1,0 +1,13 @@
+{
+    "name": "CliniPser - Salud mental y apoyo a la educación",
+    "short_name": "CliniPser",
+    "icons": [
+      {
+        "src": "./assets/img/logo_pequeno.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "https://enlace-de.github.io/CliniPser/",
+    "display": "standalone"
+  }
